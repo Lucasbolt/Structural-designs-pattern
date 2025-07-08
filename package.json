@@ -14,5 +14,8 @@
     "decorator"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "level": "^10.0.0"
+  }
 }
